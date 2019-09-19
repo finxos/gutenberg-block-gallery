@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Gallery for gutenberg-js.",
   "homepage": "https://github.com/finxos/gutenberg-block-gallery",
-  "author": {
-    "name": "afei",
-    "email": "1290657123@qq.com"
-  },
   "scripts": {
     "build": "gulp",
     "version": "gulp bump"
